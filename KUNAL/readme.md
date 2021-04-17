@@ -6,7 +6,7 @@
 
 
 ## About the Tool
-This generates a password for your services like **Facebook, Instagram, etc.** and stores them in a **text file.** 
+This generates a password for your services like **Facebook, Instagram, etc.** and stores them in a **text file** named `passwords.txt` .
 
 
 ## Using the tool
