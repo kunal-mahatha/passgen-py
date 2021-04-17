@@ -13,7 +13,7 @@ This generates a password for your services like **Facebook, Instagram, etc.** a
 ## Using the tool
 To use this : 
  - locate folder **KUNAL** by `cd` through the terminal.
- - run by `python3 cli-pass-gen.py` `-s` `-l` `-sm` `-bg` `-nm` `-sc`
+ - run by `python3` `cli-pass-gen.py` `-s` `-l` `-sm` `-bg` `-nm` `-sc`
 
 `-s ` or `--service `  is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
 
