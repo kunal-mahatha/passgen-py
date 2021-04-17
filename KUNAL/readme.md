@@ -15,7 +15,7 @@ To use this :
  - locate folder **KUNAL** by `cd` through the terminal.
  - run by `python3 cli-pass-gen.py -s -l -sm -bg -nm -sc`
 
-`-s ` or `--svervice `  is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
+`-s ` or `--service `  is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
 
 `-sm ` or `--small ` is for number of lowercase chaaracters.
 
