@@ -1,4 +1,4 @@
-# This CLI tool is useful to create Password and storing them in a text file.
+# This CLI tool is useful to create Passwords and store them in a text file.
 
 ## Installing Dependencies
 `pip install argparse`
