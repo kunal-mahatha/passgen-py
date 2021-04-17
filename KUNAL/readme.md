@@ -3,7 +3,6 @@
 ## Installing Dependencies
 `pip install argparse`
 
-`pip install python3`
 
 
 ## About the Tool
