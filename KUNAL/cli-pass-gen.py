@@ -39,8 +39,11 @@ def passgen(service, len, small, big, number, special):
     p.extend(m6)
     p.extend(m7)
     p.extend(m8)
+    p.extend(m1)
+    p.extend(m2)
+    p.extend(m3)
+    p.extend(m4)
 
-    random.shuffle(p)
 
     pd = p[:len]
 
