@@ -1,4 +1,4 @@
-# This CLI tool is useful to create Passwords and store them in a text file.
+# This CLI tool is useful to create Passwords and store them in a text file
 
 [![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/passgen-py/main/KUNAL/cli-2.png)](https://username.github.io)
 
