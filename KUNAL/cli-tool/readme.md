@@ -3,7 +3,10 @@
 [![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/passgen-py/main/KUNAL/cli-2.png)](https://username.github.io)
 
 ## Installing Dependencies
+```sh
 `pip install argparse`
+```
+
 
 
 
