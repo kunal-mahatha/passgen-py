@@ -14,7 +14,7 @@ pip install pyperclip
 
 
 ## About the Tool
-This generates a password for your services like **Facebook, Instagram, etc.** and stores them in a **text file** named `passwords.txt` .
+This generates a password for your services like **Facebook, Instagram, etc.**, copy it to the **clipboard**, and stores them in a **text file** named `passwords.txt` .
 
 To view the saved passwords [Click Here](https://github.com/kunal-mahatha/passgen-py/blob/main/KUNAL/passwords.txt)
 
