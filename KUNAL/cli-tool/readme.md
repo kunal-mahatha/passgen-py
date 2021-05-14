@@ -38,3 +38,7 @@ To use this :
 # Default values of the flags
 If the user uses the without using of any flags `-s` `-l` `-sm` `-bg` `-nm` `-sc `, then it will generate a password of **8 Characters** with **2 lowercase, 2 uppercase, 2 numerals, and 2 special characters.**
 
+
+# Using the EXECUTABLE file
+`cli-tool` > `dist` > `passgen` > `passgen`
+
