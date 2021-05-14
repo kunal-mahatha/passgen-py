@@ -4,7 +4,10 @@
 
 ## Installing Dependencies
 ```sh
-`pip install argparse`
+pip install argparse
+```
+```sh
+pip install pyperclip
 ```
 
 
