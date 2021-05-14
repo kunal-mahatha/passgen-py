@@ -11,4 +11,4 @@ To see the the tool [Click Here](https://github.com/kunal-mahatha/passgen-py/tre
 
 # .
 
-## Name RITU KUMARI
+## RITU KUMARI
