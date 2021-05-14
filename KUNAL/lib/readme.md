@@ -26,7 +26,7 @@ To use this :
 
 `s `  is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
 
-`-m ` is for number of lowercase chaaracters.
+`sm ` is for number of lowercase chaaracters.
 
 `bg ` is for number of uppercase chaaracters.
 
