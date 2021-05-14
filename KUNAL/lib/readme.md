@@ -1,6 +1,6 @@
 # This Library is useful to create Passwords, copy them in clipboard, and store them in a text file
 
-[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/passgen-py/main/KUNAL/cli-2.png)](https://username.github.io)
+[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/passgen-py/main/KUNAL/lib/cli.png)](https://username.github.io)
 
 ## About the Library
 This is a custom library for the random password generation.
