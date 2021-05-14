@@ -22,7 +22,7 @@ import passgen
 ## Using the module
 To use this : 
  - import the module as desribed above.
- - use it as a function by  `passgen.passgen(s, l, sm, bg, nm, sc)
+ - use it as a function by  `passgen.passgen(s, l, sm, bg, nm, sc)`
 
 `s `  is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
 
