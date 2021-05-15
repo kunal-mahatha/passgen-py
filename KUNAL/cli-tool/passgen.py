@@ -40,12 +40,21 @@ def passgen(service, len, small, big, number, special):
     p.extend(m6)
     p.extend(m7)
     p.extend(m8)
-    p.extend(m1)
-    p.extend(m2)
-    p.extend(m3)
-    p.extend(m4)
+    random.shuffle(p)
 
-    pd = p[:len]
+    q = []
+
+    q.extend(m1)
+    q.extend(m2)
+    q.extend(m3)
+    q.extend(m4)
+    random.shuffle(q)
+
+    r = []
+    r.extend(p)
+    r.extend(q)
+
+    pd = r[:len]
 
     password = "".join(pd)
 
