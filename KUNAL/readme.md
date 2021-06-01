@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/passgen-py/main/KUNAL/banner.gif)](https://username.github.io)
+[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/passgen-py/main/KUNAL/cli-banner.gif)](https://username.github.io)
 
 # This repository is a combination of two directories
  - CLI tool **(cli-tool)**
