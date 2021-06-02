@@ -30,6 +30,8 @@ To view the saved passwords [Click Here](https://github.com/kunal-mahatha/passge
 
 ### Using the tool
 To use this : 
+ - locate the `passgen.py` in `passgen-py/KUNAL/cli-tool`
+ - make a executable file by `pyinstaller --onefile passgen.py`
  - locate the `passgen` exe file `passgen-py/KUNAL/cli-tool/dist/passgen`
  - copy the `passgen` file to the path variable.
  - run by `passgen` `-s` `-l` `-sm` `-bg` `-nm` `-sc`
