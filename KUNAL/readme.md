@@ -66,7 +66,7 @@ If the user uses it without using of any flags `-s` `-l` `-sm` `-bg` `-nm` `-sc 
 This is a custom library for the random password generation.
 
 ### Locate the module
-`lib` > `passgen` > `dist`
+`lib` / `passgen` / `dist`
 
 ### Installing the module
 ```python
