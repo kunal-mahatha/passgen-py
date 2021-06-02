@@ -33,7 +33,7 @@ To use this :
  - locate the `passgen.py` in `passgen-py/KUNAL/cli-tool`
  - make a executable file by `pyinstaller --onefile passgen.py`
  - locate the `passgen` exe file `passgen-py/KUNAL/cli-tool/dist/passgen`
- - copy the `passgen` file to the path variable.
+ - copy the `passgen` file to the path variable by `cp dist/passggen $HOME/path_variable_dir`
  - run by `passgen` `-s` `-l` `-sm` `-bg` `-nm` `-sc`
 
 #### Example:
