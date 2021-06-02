@@ -53,7 +53,7 @@ passgen -s "facebook" -l 12 -sm 2 -bg 3 -nm 3 -sc 2
 
 
 ### Default values of the flags
-If the user uses the without using of any flags `-s` `-l` `-sm` `-bg` `-nm` `-sc `, then it will generate a password of **8 Characters** with **2 lowercase, 2 uppercase, 2 numerals, and 2 special characters.**
+If the user uses it without using of any flags `-s` `-l` `-sm` `-bg` `-nm` `-sc `, then it will generate a password of **8 Characters** with **2 lowercase, 2 uppercase, 2 numerals, and 2 special characters.**
 
 
 #
