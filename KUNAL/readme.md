@@ -52,20 +52,28 @@ passgen -s "facebook" -l 12 -sm 2 -bg 3 -nm 3 -sc 2
 ```
 # 
 
- - `-s ` or `--service `  is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
+| Arguments            |       Description                                                                                  |
+| ---------------------|----------------------------------------------------------------------------------------------------| 
+|`-s ` or `--service ` | is about the service that user want to use the password for, example **Facebook, Instagram, etc.** |
+|`-l` or `--length` | is for the length of the password |
+|`-sm ` or `--small `  | is for number of lowercase chaaracters.|
+|`-bg ` or `--big `    | is for number of uppercase chaaracters.|
+|`-nm ` or `--number ` | is for number of numerals.|
+|`-sc ` or `--special `| is for number of special chaaracters.|
 
- - `-sm ` or `--small ` is for number of lowercase chaaracters.
-
- - `-bg ` or `--big ` is for number of uppercase chaaracters.
-
- - `-nm ` or `--number ` is for number of numerals.
-
- - `-sc ` or `--special ` is for number of special chaaracters.
+# 
 
 
 ### Default values of the flags
 If the user uses it without using of any flags `-s` `-l` `-sm` `-bg` `-nm` `-sc `, then it will generate a password of **8 Characters** with **2 lowercase, 2 uppercase, 2 numerals, and 2 special characters.**
 
+| Arguments | Default Values |
+|-----------|:-------:|
+|`-s ` or `--service ` | Facebook |
+|`-sm ` or `--small `  | 2 |
+|`-bg ` or `--big `    | 2 |
+|`-nm ` or `--number ` | 2 |
+|`-sc ` or `--special `| 2 |
 
 #
 
@@ -99,12 +107,16 @@ To use this :
  ```
  
  # 
+ 
+| Arguments            |       Description                                                                                  |
+| ---------------------|----------------------------------------------------------------------------------------------------| 
+|`-s ` or `--service ` | is about the service that user want to use the password for, example **Facebook, Instagram, etc.** |  
+|`-l` or `--length` | is for the length of the password |
+|`-sm ` or `--small `  | is for number of lowercase chaaracters.|
+|`-bg ` or `--big `    | is for number of uppercase chaaracters.|
+|`-nm ` or `--number ` | is for number of numerals.|
+|`-sc ` or `--special `| is for number of special chaaracters.|
 
- -  `s `    is about the service that user want to use the password for, example **Facebook, Instagram, etc.**
- - `sm `    is for number of lowercase chaaracters.
- - `bg `    is for number of uppercase chaaracters.
- - `nm `    is for number of numerals.
- - `sc `    is for number of special chaaracters.
 
 #
 
@@ -119,8 +131,9 @@ To use this :
 
 # 
 
-# 
 
+# 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### AUTHOR
 **NAME - Kunal Mahatha**
 
