@@ -24,7 +24,12 @@ This generates a password for your services like **Facebook, Instagram, etc.**, 
 
 To view the saved passwords [Click Here](https://github.com/kunal-mahatha/passgen-py/blob/main/KUNAL/cli-tool/passwords.txt)
 
-### Using the tool
+### Features
+ - This tool generates an user **customized** password. User can enter the Length, number of lower and upper cases characters, number of numerals and special characters.
+ - After password generation it **copies** it to the clipboard, from where it can pe easily pasted anywhere.
+ - It uses the **Fisher-Yates shuffle** which runs in O(n) time and also proven to be a perfect shuffle, so it takes less time with high randomness.
+
+### Usage
  To use this :
   - Clone the Repository
   ```python3
