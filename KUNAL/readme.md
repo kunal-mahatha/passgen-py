@@ -45,7 +45,7 @@ To view the saved passwords [Click Here](https://github.com/kunal-mahatha/passge
   ```
   - locate the `passgen` exe file
   ```python
-  cd passgen-py/cli-tool/dist/passgen
+  cd dist/passgen
   ```
   - copy the `passgen` exe file to the path variable
   ```python
