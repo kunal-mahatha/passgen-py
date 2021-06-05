@@ -61,10 +61,10 @@ passgen -s "facebook" -l 12 -sm 2 -bg 3 -nm 3 -sc 2
 | ---------------------|----------------------------------------------------------------------------------------------------| 
 |`-s ` or `--service ` | is about the service that user want to use the password for, example **Facebook, Instagram, etc.** |
 |`-l` or `--length` | is for the length of the password |
-|`-sm ` or `--small `  | is for number of lowercase chaaracters.|
-|`-bg ` or `--big `    | is for number of uppercase chaaracters.|
+|`-sm ` or `--small `  | is for number of lowercase characters.|
+|`-bg ` or `--big `    | is for number of uppercase characters.|
 |`-nm ` or `--number ` | is for number of numerals.|
-|`-sc ` or `--special `| is for number of special chaaracters.|
+|`-sc ` or `--special `| is for number of special characters.|
 
 # 
 
@@ -117,10 +117,10 @@ To use this :
 | ---------------------|----------------------------------------------------------------------------------------------------| 
 |`-s ` or `--service ` | is about the service that user want to use the password for, example **Facebook, Instagram, etc.** |  
 |`-l` or `--length` | is for the length of the password |
-|`-sm ` or `--small `  | is for number of lowercase chaaracters.|
-|`-bg ` or `--big `    | is for number of uppercase chaaracters.|
+|`-sm ` or `--small `  | is for number of lowercase characters.|
+|`-bg ` or `--big `    | is for number of uppercase characters.|
 |`-nm ` or `--number ` | is for number of numerals.|
-|`-sc ` or `--special `| is for number of special chaaracters.|
+|`-sc ` or `--special `| is for number of special characters.|
 
 
 #
